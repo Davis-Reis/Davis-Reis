@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Davis-Reis
+- 👀 I’m interested in game developement and data science
+- 🌱 I’m currently learning intermediate python and general Computer Science
+- 💞️ I’m looking to collaborate on indie game projects and mods
+- 📫 How to reach me davisreis1@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my cat is sillier than yours
+- 
